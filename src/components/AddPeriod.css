@@ -1,0 +1,272 @@
+.fi-ss-cross-icon {
+  position: absolute;
+  top: 41px;
+  left: 679px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.add-period3 {
+  position: absolute;
+  top: 36px;
+  left: 43px;
+  font-size: 20px;
+}
+.period-name {
+  position: relative;
+  line-height: 120%;
+}
+.enter-period-name {
+  position: absolute;
+  top: 19px;
+  left: 26px;
+  font-weight: 300;
+}
+.enter-period-name-wrapper {
+  align-self: stretch;
+  position: relative;
+  border-radius: 10px;
+  border: 1px solid #aaa;
+  box-sizing: border-box;
+  height: 65px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 20px;
+  color: #aaa;
+}
+
+.period-name-parent {
+  position: absolute;
+  top: 80px;
+  left: 43px;
+  width: 654px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.m-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #dcdcdc;
+  width: 38px;
+  height: 37px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frame-wrapper {
+  position: relative;
+}
+.days,
+.frame-wrapper,
+.m-frame {
+  width: 38px;
+  height: 37px;
+}
+.m-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #5364ff;
+  display: flex;
+  flex-direction: row;
+  padding: 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.days {
+  position: relative;
+  color: #fff;
+}
+.instance-parent,
+.repeat-on-days-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.repeat-on-days-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 654px;
+  flex-direction: column;
+}
+
+.add-period-inner {
+  position: absolute;
+  top: 320px;
+  left: 43px;
+  width: 654px;
+  height: 75px;
+}
+
+.enter-period-name1 {
+  position: absolute;
+  top: 20px;
+  left: 46px;
+  font-weight: 300;
+}
+.iconlylighttime-circle {
+  position: absolute;
+  top: 21px;
+  left: 12px;
+  width: 24px;
+  height: 24px;
+}
+.enter-period-name-parent {
+  align-self: stretch;
+  position: relative;
+  border-radius: 10px;
+  border: 1px solid #aaa;
+  box-sizing: border-box;
+  height: 65px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 20px;
+}
+
+
+.period-name-group {
+  position: absolute;
+  top: 200px;
+  left: 43px;
+  width: 318px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+
+.march-28-march-2023-parent {
+  position: relative;
+  border-radius: 10px;
+  border: 1px solid #aaa;
+  box-sizing: border-box;
+  width: 654px;
+  height: 65px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 20px;
+}
+
+
+.period-name-container, .period-name-parent1 {
+  position: absolute;
+  top: 420px;
+  left: 43px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+
+
+
+.period-name-parent1 {
+  top: 200px;
+  left: 379px;
+  width: 318px;
+}
+
+.plus-icon2 {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.plus-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.frame-wrapper3 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  border-radius: 100px;
+  background-color: #5364ff;
+  display: flex;
+  flex-direction: column;
+  padding: 13px 33px;
+  align-items: center;
+  justify-content: center;
+}
+.iconlylightdelete,
+.instance-group {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+
+
+.instance-group {
+  top: 580px;
+  left: 482px;
+  width: 211px;
+  height: 45px;
+  color: #fff;
+}
+
+
+
+.add-period-child {
+  position: absolute;
+  top: 580px;
+  left: 44px;
+  width: 158px;
+  height: 32px;
+}
+
+.add-period2 {
+  position: relative;
+  border-radius: 20px;
+  background-color: #fff;
+  width: 738px;
+  height: 725px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Nunito;
+}
+
+.ant-picker {
+  box-sizing: border-box;
+  margin: 0;
+  width: 661px;
+  height: 70px;
+  border: 2px solid black;
+  padding: 4px 11px 4px;
+  color: rgba(0, 0, 0, 0.88);
+  font-size: 14px;
+  line-height: 1;
+  list-style: none;
+  font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,'Noto Sans',sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+  transition: border 0.2s,box-shadow 0.2s;
+}

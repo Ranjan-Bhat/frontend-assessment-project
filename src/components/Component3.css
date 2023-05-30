@@ -1,0 +1,63 @@
+.component-3-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #e9e8fd;
+}
+.period-15 {
+  height: 18.36%;
+  width: 29.24%;
+  top: 4.59%;
+  left: 2.92%;
+  font-size: 13px;
+  font-weight: 600;
+  display: inline-block;
+}
+.activity-11,
+.div35,
+.period-15 {
+  position: absolute;
+  line-height: 120%;
+}
+.div35 {
+  height: 13.41%;
+  width: 90.64%;
+  top: 26.83%;
+  left: 2.92%;
+  display: inline-block;
+}
+.activity-11 {
+  top: 3px;
+  left: 6px;
+}
+.activity-1-container,
+.activity-1-frame {
+  position: absolute;
+  top: calc(50% - 2px);
+  left: calc(50% - 80.5px);
+  border-radius: 3px;
+  background-color: #938be6;
+  width: 161px;
+  height: 17px;
+  overflow: hidden;
+  color: #fff;
+}
+.activity-1-frame {
+  top: calc(50% + 19px);
+}
+.component-31 {
+  position: absolute;
+  top: 598px;
+  left: 102px;
+  width: 171px;
+  height: 82px;
+  text-align: left;
+  font-size: 10px;
+  color: #938be6;
+  font-family: Nunito;
+}

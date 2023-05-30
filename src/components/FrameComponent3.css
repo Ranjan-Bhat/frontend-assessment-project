@@ -1,0 +1,93 @@
+.iconlylight-outlinesearch {
+  position: absolute;
+  height: 45.92%;
+  width: 5%;
+  top: 33.6%;
+  right: 90.45%;
+  bottom: 20.48%;
+  left: 4.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  width: 352px;
+  height: 40px;
+  opacity: 0.4;
+}
+.search-for-projects {
+  position: absolute;
+  top: 13px;
+  left: 51px;
+  line-height: 120%;
+}
+.iconlylight-outlinesearch-parent {
+  position: absolute;
+  height: 59.7%;
+  width: 25.66%;
+  top: 0;
+  right: 2.11%;
+  bottom: 40.3%;
+  left: 72.23%;
+}
+.weekly-planning {
+  position: relative;
+  line-height: 120%;
+}
+.secondary-tab {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.weekly-planning1 {
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+}
+.secondary-tab-parent,
+.secondary-tab1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.secondary-tab1 {
+  border-radius: 5px;
+  background-color: #e5e8ff;
+  padding: 10px 12px;
+  justify-content: center;
+  cursor: pointer;
+  color: #000;
+}
+.secondary-tab-parent {
+  position: absolute;
+  top: 17px;
+  left: 29px;
+  justify-content: flex-start;
+  gap: 55px;
+  font-size: 16px;
+}
+.frame-item,
+.group-container {
+  position: absolute;
+  top: 66.5px;
+  left: 0;
+  width: 1372px;
+  height: 1px;
+}
+.group-container {
+  top: 108px;
+  left: 34px;
+  height: 67px;
+  text-align: left;
+  font-size: 13px;
+  color: #aaa;
+  font-family: Nunito;
+}
